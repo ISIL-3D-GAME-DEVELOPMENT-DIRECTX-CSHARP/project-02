@@ -1,0 +1,22 @@
+# Blender MTL File: 'coin.mtl'
+# Material Count: 2
+
+newmtl coin-texture
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 1 1 1
+Km 0
+map_Kd coin-texture.jpg
+
+newmtl gold
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 1 1 1
+Km 0
+map_Kd gold.jpg
